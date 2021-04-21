@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gael</h1>
-<h3 align="center">a student , i am a freelancer programer also i am still a student.</h3>
+<h1 align="center">Hello 👋, my name is Gael</h1>
+<h3 align="center">I´m a freelancer programer also i am still a student.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
