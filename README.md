@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Gael</h1>
-<h3 align="center">I´m a freelancer programer also a student.</h3>
+<h3 align="center">I´m a Freelancer Programer also a student.</h3>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Lil-Gael&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" width=460>
 <h3 align="left">I am interesed in web development and all sorts of game development :D <img width="30" height="30" src="https://cdn.discordapp.com/emojis/768544166506266684.png?v=1">
 <h3 align="left">Languages and Tools:</h3>
