@@ -11,7 +11,4 @@
 <a href="http://www.lua.org/"><img alt="lua" width="40" height="40" src="https://i.imgur.com/S0fQbOk.png"></a></p>
 
 
-A
-A
-A
 
